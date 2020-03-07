@@ -5,7 +5,7 @@
         <aside class="widget widget_text"><h3 class="widget-title"><span>About Us</span></h3>
           <div class="textwidget">
             <p>
-              <img alt="Transport Logo" src="../transport.thememove.com/data/images/logo.png"><br>
+              <img alt="Transport Logo" src="images/logo/logo.png"><br>
               Transport offers a host of logistic management services and supply chain solutions. We provide innovative solutions with the best people, processes, and technology.
             </p>
           </div>
@@ -36,16 +36,23 @@
           <h3 class="widget-title"><span>Information</span></h3>
           <div class="menu-information-container">
             <ul id="menu-information" class="menu">
-              <li><a href="http://transport.thememove.com/about-us/">About Us</a></li>
-              <li><a href="http://transport.thememove.com/classic-blog/">Classic Blog</a></li>
-              <li><a href="http://transport.thememove.com/cart/">Cart</a></li>
-              <li><a href="http://transport.thememove.com/checkout/">Checkout</a></li>
-              <li><a href="http://transport.thememove.com/contact/">Contact</a></li>
-              <li><a href="http://transport.thememove.com/my-account/">My Account</a></li>
-              <li><a href="http://transport.thememove.com/our-services/">Our Services</a></li>
-              <li><a href="http://transport.thememove.com/shop/">Shop</a></li>
-              <li><a href="http://transport.thememove.com/contact/">Contact</a></li>
-              <li><a href="http://transport.thememove.com/classic-blog/">Classic Blog</a></li>
+            <li><a href="index.php">Home</a></li>
+       <li><a href="about.php">About Us</a></li>
+
+       <li><a href="our-services.php">Our Services</a></li>
+             <li>
+        <a href="review.php">Reviews</a>
+      </li>
+
+      <li>
+        <a href="track.php">Track Package</a>
+      </li>
+
+ 
+    <li><a href="#contact">Contact</a></li>
+          <li>
+        <a  href="backend/index.php">Login</a>
+      </li>
             </ul>
           </div>
         </aside>
@@ -68,21 +75,6 @@
     </div>
   </div>
 </footer>
-
-<div class="copyright">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 left">
-          Made with <i class="fa fa-heart"></i> by <a target="_blank" href="http://themeforest.net/item/structure-construction-business-wordpress-theme/10798442?ref=ThemeMove">ThemeMove.com</a>.
-      </div>
-      <div class="col-md-8">
-        <div class="right">
-          © Copyrights 2015 Transport Inc. All rights reserved.
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 
   </div>
