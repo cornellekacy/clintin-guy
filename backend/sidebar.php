@@ -22,9 +22,9 @@
                 <li> <a  href="view_tracking.php" aria-expanded="false"><i class="fa fa-eye"></i>View Tracking</a>
 
                 </li>
-                <li> <a  href="mail.php" aria-expanded="false"><i class="fa fa-eye"></i>Mail Jk</a>
+              <!--   <li> <a  href="mail.php" aria-expanded="false"><i class="fa fa-eye"></i>Mail Jk</a>
 
-                </li>
+                </li> -->
                  <li> <a  href="editmap.php" aria-expanded="false"><i class="fa fa-eye"></i>Edit Map</a>
                   <!--   <li> <a  href="shipment.php" aria-expanded="false"><i class="fa fa-eye"></i>Package Locations</a>
 
