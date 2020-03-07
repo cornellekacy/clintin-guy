@@ -62,11 +62,9 @@
           <h3 class="widget-title"><span>Transport Office</span></h3>
           <div class="textwidget">
             <div class="office">
-              <p><i class="fa fa-map-marker"></i> 14 Tottenham Road, London, England.
+              <p><i class="fa fa-map-marker"></i> 3127  Doctors Drive, Los Angeles, California.
               </p>
-              <p><i class="fa fa-phone"></i> (102) 6666 8888 </p>
-              <p><i class="fa fa-envelope"></i> info@thememove.com </p>
-              <p><i class="fa fa-fax"></i> (102) 8888 9999 </p>
+              <p><i class="fa fa-envelope"></i>info@fastlinetransportlogistics.com</p>
               <p><i class="fa fa-clock-o"></i> Mon - Sat: 9:00 - 18:00</p>
             </div>
           </div>

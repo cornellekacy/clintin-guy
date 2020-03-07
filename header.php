@@ -132,8 +132,8 @@
                     </div>
                     <div class="col-md-6">
                       <i class="fa fa-home"></i>
-                      <h3>14 Tottenham Road</h3>
-                      <span>London, England.</span>
+                      <h3>3127  Doctors Drive</h3>
+                      <span>Los Angeles, California.</span>
                     </div>
          
                   </div>
