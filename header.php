@@ -126,21 +126,16 @@
               <div class="col-lg-10 col-xl-11">
                 <div class="contact-detail">
                   <div class="row">
-                    <div class="col-md-4 col-xl-3 col-xl-offset-1">
+                    <div class="col-md-6">
                       <i class="fa fa-phone"></i>
-                      <h3>1-775-97-377</h3>
-                      <span>info@fastlinetransport.com</span>
+                      <h3>info@fastlinetransportlogistics.com</h3>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                       <i class="fa fa-home"></i>
                       <h3>14 Tottenham Road</h3>
                       <span>London, England.</span>
                     </div>
-                    <div class="col-md-4">
-                      <i class="fa fa-clock-o"></i>
-                      <h3>Mon - Sat : 9AM - 6PM</h3>
-                      <span>Opening Time</span>
-                    </div>
+         
                   </div>
                 </div>
               </div>
