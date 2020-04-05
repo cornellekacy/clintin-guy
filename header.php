@@ -45,7 +45,19 @@
   <script type="text/javascript" src="components/slider/js/extensions/revolution.extension.parallax.min.js"></script>
   <script type="text/javascript" src="components/slider/js/extensions/revolution.extension.slideanims.min.js"></script>
   <script type="text/javascript" src="components/slider/js/extensions/revolution.extension.video.min.js"></script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e89bac635bcbb0c9aadf5f5/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </head>
 <body>
 
@@ -127,8 +139,9 @@
                 <div class="contact-detail">
                   <div class="row">
                     <div class="col-md-6">
-                      <i class="fa fa-phone"></i>
-                      <h3>info@fastlinetransportlogistics.com</h3>
+                    
+                      <h6 align="center">info@fastlinetransportlogistics.com</h6><br>
+                      <h6 align="center">+1 (551) 900-1661</h6>
                     </div>
                     <div class="col-md-6">
                       <i class="fa fa-home"></i>
